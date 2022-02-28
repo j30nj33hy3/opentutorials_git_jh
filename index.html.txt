@@ -8,6 +8,7 @@
 			<h1>Git</h1>
 		</header>
 		<ul>
+			<li>로컬저장소 추가</li>
 			<li>sync.jihye</li>
 			<li>Git이란?</li>
 			<li>버전</li>
