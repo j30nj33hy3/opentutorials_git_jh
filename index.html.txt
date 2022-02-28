@@ -20,6 +20,7 @@
 			<li>협업</li>
 			<li>sync</li>
 			<li>push.jihye</li>
+			<li>pull.jihye2</li>
 		</ul>
 	</body>
 </html>
