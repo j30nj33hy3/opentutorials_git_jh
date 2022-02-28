@@ -22,6 +22,7 @@
 			<li>sync</li>
 			<li>push.jihye</li>
 			<li>pull.jihye2</li>
+			<li>로컬저장소2</li>
 		</ul>
 	</body>
 </html>
