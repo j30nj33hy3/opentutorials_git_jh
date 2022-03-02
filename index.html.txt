@@ -24,7 +24,7 @@
 			<li>push.jihye</li>
 			<li>pull.jihye2</li>
 			<li>로컬저장소2</li>
-			<li>conflict.jihye</li>
+			<li>conflict.jihye.jihye2</li>
 		</ul>
 	</body>
 </html>
